@@ -1,0 +1,14 @@
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.AssemblyInfoInputs.cache
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.AssemblyInfo.cs
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.csproj.CoreCompileInputs.cache
+C:\Users\merch\source\repos\MP09\SeguridadMedica\bin\Debug\net8.0\SeguridadMedica.exe
+C:\Users\merch\source\repos\MP09\SeguridadMedica\bin\Debug\net8.0\SeguridadMedica.deps.json
+C:\Users\merch\source\repos\MP09\SeguridadMedica\bin\Debug\net8.0\SeguridadMedica.runtimeconfig.json
+C:\Users\merch\source\repos\MP09\SeguridadMedica\bin\Debug\net8.0\SeguridadMedica.dll
+C:\Users\merch\source\repos\MP09\SeguridadMedica\bin\Debug\net8.0\SeguridadMedica.pdb
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.dll
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\refint\SeguridadMedica.dll
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.pdb
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\SeguridadMedica.genruntimeconfig.cache
+C:\Users\merch\source\repos\MP09\SeguridadMedica\obj\Debug\net8.0\ref\SeguridadMedica.dll
